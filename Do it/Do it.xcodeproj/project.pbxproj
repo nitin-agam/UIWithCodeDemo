@@ -88,13 +88,6 @@
 			path = Calendar;
 			sourceTree = "<group>";
 		};
-		18BB0AAA2185D9050041E825 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
 		18BB0AAB2185DC5C0041E825 /* Notes */ = {
 			isa = PBXGroup;
 			children = (
@@ -135,7 +128,6 @@
 			isa = PBXGroup;
 			children = (
 				18F070F52185D11B000422F0 /* SourceCode */,
-				18F070FD2185D11B000422F0 /* Resource */,
 				18F070F32185D11B000422F0 /* OtherFiles */,
 			);
 			path = "Do it";
@@ -194,7 +186,6 @@
 			isa = PBXGroup;
 			children = (
 				18F070FB2185D11B000422F0 /* Storyboard */,
-				18BB0AAA2185D9050041E825 /* View */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -213,13 +204,6 @@
 				1896E815218956E800914372 /* UIColor+Extension.swift */,
 			);
 			path = Utility;
-			sourceTree = "<group>";
-		};
-		18F070FD2185D11B000422F0 /* Resource */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Resource;
 			sourceTree = "<group>";
 		};
 		1F9DCE7CD29AAB380D21B483 /* Pods */ = {
