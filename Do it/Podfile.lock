@@ -1,0 +1,30 @@
+PODS:
+  - FTIndicator (1.2.9):
+    - FTIndicator/FTNotificationIndicator (= 1.2.9)
+    - FTIndicator/FTProgressIndicator (= 1.2.9)
+    - FTIndicator/FTToastIndicator (= 1.2.9)
+  - FTIndicator/FTNotificationIndicator (1.2.9)
+  - FTIndicator/FTProgressIndicator (1.2.9)
+  - FTIndicator/FTToastIndicator (1.2.9)
+  - IQKeyboardManagerSwift (6.1.1)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - FTIndicator
+  - IQKeyboardManagerSwift
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FTIndicator
+    - IQKeyboardManagerSwift
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  FTIndicator: f7f071fd159e5befa1d040a9ef2e3ab53fa9322c
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 7f9f8096611150961841af0195bd345c8398f349
+
+COCOAPODS: 1.5.3
