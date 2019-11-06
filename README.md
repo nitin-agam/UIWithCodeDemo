@@ -1,5 +1,5 @@
 # UIWithCodeDemo
 You can learn how to design UI via programatically. It is easy, interesting and fun.
 
-<img src="https://github.com/nitin-agam/UIWithCodeDemo/blob/master/screenshot.png">
-
+1. Grid layout with equal spacing.
+2. Pagination with UICollectionView and UIPageViewController.
